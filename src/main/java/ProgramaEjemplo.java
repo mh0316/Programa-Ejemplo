@@ -13,5 +13,10 @@ public class ProgramaEjemplo {
         }else{
             System.out.println("El mayor es "+b);
         }
+        if(a<b){
+            System.out.println("El menor es "+a);
+        }else{
+            System.out.println("El menor es "+b);
+        }
     }
 }
